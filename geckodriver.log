@@ -171,3 +171,17 @@ IPDL protocol error: Handler returned error code!
 ###!!! [Parent][DispatchAsyncMessage] Error: PWebRenderBridge::Msg_UpdateResources Processing error: message was deserialized, but the handler returned false (indicating failure)
 
 1623509821836	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0064,name=PContent::Msg_RefreshScreens) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230075,name=PBrowser::Msg_UpdateDimensions) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1623509883845	Marionette	INFO	Stopped listening on port 40859
