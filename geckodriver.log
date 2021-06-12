@@ -1,0 +1,173 @@
+1622818245079	geckodriver	INFO	Listening on 127.0.0.1:59603
+1622818246076	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNO9xcu"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1622818249870	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622818259428	Marionette	INFO	Listening on port 36761
+1622818259547	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622818316849	Marionette	INFO	Stopped listening on port 36761
+1622818747875	geckodriver	INFO	Listening on 127.0.0.1:53107
+1622818748881	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGlLWaE"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1622818750672	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622818759344	Marionette	INFO	Listening on port 35237
+1622818759656	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622818842551	geckodriver	INFO	Listening on 127.0.0.1:47921
+1622818843550	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevz5bp4"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1622818845033	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622818855140	Marionette	INFO	Listening on port 40993
+1622818855366	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622818944969	geckodriver	INFO	Listening on 127.0.0.1:48785
+1622818945992	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDVJd1J"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1622818947978	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622818965673	Marionette	INFO	Listening on port 40897
+1622818966279	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622819028411	geckodriver	INFO	Listening on 127.0.0.1:37153
+1622819029424	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiOH6is"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1622819033818	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622819058825	Marionette	INFO	Listening on port 39195
+1622819059229	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622819392721	geckodriver	INFO	Listening on 127.0.0.1:43167
+1622819393724	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileksoKRn"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1622819396018	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622819409763	Marionette	INFO	Listening on port 32771
+1622819409948	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623506846081	geckodriver	INFO	Listening on 127.0.0.1:54875
+1623506847088	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMR6Zxz"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1623506850563	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623506858704	Marionette	INFO	Listening on port 39553
+1623506858832	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623507104280	geckodriver	INFO	Listening on 127.0.0.1:54021
+1623507105288	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFPuUqr"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1623507106901	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623507116507	Marionette	INFO	Listening on port 44167
+1623507116622	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623507307670	geckodriver	INFO	Listening on 127.0.0.1:52287
+1623507308674	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQZe3wK"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1623507309949	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623507318414	Marionette	INFO	Listening on port 41161
+1623507318603	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623507371319	geckodriver	INFO	Listening on 127.0.0.1:55091
+1623507372326	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebIcCH0"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1623507373952	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623507382227	Marionette	INFO	Listening on port 41881
+1623507382339	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: selection is null
+Full stack: _isContainerSelected@resource://devtools/client/inspector/markup/markup.js:857:1
+_markContainerAsSelected@resource://devtools/client/inspector/markup/markup.js:2042:15
+_onNewSelection/onShow<@resource://devtools/client/inspector/markup/markup.js:1001:14
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+Promise*scheduleWalkerLoop@resource://gre/modules/Promise-backend.js:775:19
+walkerLoop@resource://gre/modules/Promise-backend.js:838:12
+Promise*scheduleWalkerLoop@resource://gre/modules/Promise-backend.js:775:19
+walkerLoop@resource://gre/modules/Promise-backend.js:838:12
+Promise*scheduleWalkerLoop@resource://gre/modules/Promise-backend.js:775:19
+schedulePromise@resource://gre/modules/Promise-backend.js:809:12
+Promise.prototype.then@resource://gre/modules/Promise-backend.js:483:19
+getLongString@resource://devtools/client/inspector/shared/utils.js:134:6
+buildMarkup@resource://devtools/client/inspector/markup/views/text-editor.js:61:18
+TextEditor@resource://devtools/client/inspector/markup/views/text-editor.js:51:8
+updateTextEditor@resource://devtools/client/inspector/markup/views/element-editor.js:568:25
+update@resource://devtools/client/inspector/markup/views/element-editor.js:341:10
+ElementEditor@resource://devtools/client/inspector/markup/views/element-editor.js:125:8
+MarkupElementContainer@resource://devtools/client/inspector/markup/views/element-container.js:53:19
+importNode@resource://devtools/client/inspector/markup/markup.js:1421:19
+_updateChildren/updatePromise<@resource://devtools/client/inspector/markup/markup.js:2238:39
+
+*************************
+console.error: (new TypeError("selection is null", "resource://devtools/client/inspector/markup/markup.js", 857))
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: this.browserRequire is not a function
+Full stack: get ReactDOM@resource://devtools/client/framework/toolbox.js:1254:17
+get ReactDOM@resource://devtools/client/inspector/inspector.js:601:5
+get ReactDOM@resource://devtools/client/inspector/markup/views/text-editor.js:76:5
+buildMarkup/<@resource://devtools/client/inspector/markup/views/text-editor.js:62:7
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+Promise*scheduleWalkerLoop@resource://gre/modules/Promise-backend.js:775:19
+schedulePromise@resource://gre/modules/Promise-backend.js:809:12
+completePromise@resource://gre/modules/Promise-backend.js:741:12
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+Promise*scheduleWalkerLoop@resource://gre/modules/Promise-backend.js:775:19
+walkerLoop@resource://gre/modules/Promise-backend.js:838:12
+Promise*scheduleWalkerLoop@resource://gre/modules/Promise-backend.js:775:19
+walkerLoop@resource://gre/modules/Promise-backend.js:838:12
+Promise*scheduleWalkerLoop@resource://gre/modules/Promise-backend.js:775:19
+schedulePromise@resource://gre/modules/Promise-backend.js:809:12
+Promise.prototype.then@resource://gre/modules/Promise-backend.js:483:19
+getLongString@resource://devtools/client/inspector/shared/utils.js:134:6
+buildMarkup@resource://devtools/client/inspector/markup/views/text-editor.js:61:18
+TextEditor@resource://devtools/client/inspector/markup/views/text-editor.js:51:8
+updateTextEditor@resource://devtools/client/inspector/markup/views/element-editor.js:568:25
+update@resource://devtools/client/inspector/markup/views/element-editor.js:341:10
+ElementEditor@resource://devtools/client/inspector/markup/views/element-editor.js:125:8
+MarkupElementContainer@resource://devtools/client/inspector/markup/views/element-container.js:53:19
+importNode@resource://devtools/client/inspector/markup/markup.js:1421:19
+_updateChildren/updatePromise<@resource://devtools/client/inspector/markup/markup.js:2238:39
+
+*************************
+console.error: (new TypeError("this.textNode is undefined", "resource://devtools/client/inspector/markup/views/text-editor.js", 121))
+console.error: (new TypeError("this.textNode is undefined", "resource://devtools/client/inspector/markup/views/text-editor.js", 121))
+console.error: (new TypeError("this.selection is null", "resource://devtools/client/inspector/breadcrumbs.js", 417))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/customhighlighter523, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:285:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nshow@resource://devtools/client/fronts/highlighters.js:27:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:577:23\n", "resource://devtools/shared/protocol/Front.js", 99))
+1623508033615	geckodriver	INFO	Listening on 127.0.0.1:42961
+1623508034620	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesv2M1S"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1623508036944	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623508045802	Marionette	INFO	Listening on port 34437
+1623508046135	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1623509723503	geckodriver	INFO	Listening on 127.0.0.1:59109
+1623509724507	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecTyENg"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1623509726624	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623509735406	Marionette	INFO	Listening on port 40859
+1623509735527	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Updating unknown shared surface: 12884901923
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PWebRenderBridge::Msg_UpdateResources Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1623509821836	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
